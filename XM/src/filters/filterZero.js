@@ -1,0 +1,1 @@
+export default n => n > 9   ? '' + n : '0'+n
